@@ -32,8 +32,8 @@ transferred its copyright to Salvatore Sanfilippo.
 
 They also sponsored the initial implementation of this site by
 [Damian Janowski](https://twitter.com/djanowski) and [Michel
-Martens](https://twitter.com/soveran). Damian and Michel remain the current
-maintainers.
+Martens](https://twitter.com/soveran). Damian and Michel
+maintained the website until 2019.
 
 The `redis.io` domain was donated for a few years to the project by [I Want My
 Name](https://iwantmyname.com).
